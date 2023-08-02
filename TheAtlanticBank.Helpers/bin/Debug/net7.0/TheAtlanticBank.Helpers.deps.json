@@ -1,0 +1,94 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "TheAtlanticBank.Helpers/1.0.0": {
+        "dependencies": {
+          "Figgle": "0.5.1",
+          "TheAtlanticBank.Core": "1.0.0",
+          "TheAtlanticBank.Data": "1.0.0",
+          "TheAtlanticBank.Entities": "1.0.0"
+        },
+        "runtime": {
+          "TheAtlanticBank.Helpers.dll": {}
+        }
+      },
+      "Figgle/0.5.1": {
+        "runtime": {
+          "lib/netstandard2.0/Figgle.dll": {
+            "assemblyVersion": "0.5.1.0",
+            "fileVersion": "0.5.1.0"
+          }
+        }
+      },
+      "TheAtlanticBank.Common/1.0.0": {
+        "runtime": {
+          "TheAtlanticBank.Common.dll": {}
+        }
+      },
+      "TheAtlanticBank.Core/1.0.0": {
+        "dependencies": {
+          "TheAtlanticBank.Data": "1.0.0",
+          "TheAtlanticBank.Entities": "1.0.0"
+        },
+        "runtime": {
+          "TheAtlanticBank.Core.dll": {}
+        }
+      },
+      "TheAtlanticBank.Data/1.0.0": {
+        "dependencies": {
+          "TheAtlanticBank.Entities": "1.0.0"
+        },
+        "runtime": {
+          "TheAtlanticBank.Data.dll": {}
+        }
+      },
+      "TheAtlanticBank.Entities/1.0.0": {
+        "dependencies": {
+          "TheAtlanticBank.Common": "1.0.0"
+        },
+        "runtime": {
+          "TheAtlanticBank.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TheAtlanticBank.Helpers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Figgle/0.5.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-F21k9oOGRgSb+1dCX0kFDYRBbShSMFvL49xjNmF/dsJwiN5M7zBaSWsYKpi/KZWXVIIxNzTbNTq9ZciucaHYMQ==",
+      "path": "figgle/0.5.1",
+      "hashPath": "figgle.0.5.1.nupkg.sha512"
+    },
+    "TheAtlanticBank.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TheAtlanticBank.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TheAtlanticBank.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TheAtlanticBank.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

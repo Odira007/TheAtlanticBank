@@ -1,0 +1,15 @@
+C:\Users\ODIRA.DESKTOP-II4QM4T\Desktop\TheAtlanticBank\TheAtlanticBank.Entities\bin\Debug\net7.0\TheAtlanticBank.Entities.deps.json
+C:\Users\ODIRA.DESKTOP-II4QM4T\Desktop\TheAtlanticBank\TheAtlanticBank.Entities\bin\Debug\net7.0\TheAtlanticBank.Entities.dll
+C:\Users\ODIRA.DESKTOP-II4QM4T\Desktop\TheAtlanticBank\TheAtlanticBank.Entities\bin\Debug\net7.0\TheAtlanticBank.Entities.pdb
+C:\Users\ODIRA.DESKTOP-II4QM4T\Desktop\TheAtlanticBank\TheAtlanticBank.Entities\obj\Debug\net7.0\TheAtlanticBank.Entities.csproj.AssemblyReference.cache
+C:\Users\ODIRA.DESKTOP-II4QM4T\Desktop\TheAtlanticBank\TheAtlanticBank.Entities\obj\Debug\net7.0\TheAtlanticBank.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ODIRA.DESKTOP-II4QM4T\Desktop\TheAtlanticBank\TheAtlanticBank.Entities\obj\Debug\net7.0\TheAtlanticBank.Entities.AssemblyInfoInputs.cache
+C:\Users\ODIRA.DESKTOP-II4QM4T\Desktop\TheAtlanticBank\TheAtlanticBank.Entities\obj\Debug\net7.0\TheAtlanticBank.Entities.AssemblyInfo.cs
+C:\Users\ODIRA.DESKTOP-II4QM4T\Desktop\TheAtlanticBank\TheAtlanticBank.Entities\obj\Debug\net7.0\TheAtlanticBank.Entities.csproj.CoreCompileInputs.cache
+C:\Users\ODIRA.DESKTOP-II4QM4T\Desktop\TheAtlanticBank\TheAtlanticBank.Entities\obj\Debug\net7.0\TheAtlanticBank.Entities.dll
+C:\Users\ODIRA.DESKTOP-II4QM4T\Desktop\TheAtlanticBank\TheAtlanticBank.Entities\obj\Debug\net7.0\refint\TheAtlanticBank.Entities.dll
+C:\Users\ODIRA.DESKTOP-II4QM4T\Desktop\TheAtlanticBank\TheAtlanticBank.Entities\obj\Debug\net7.0\TheAtlanticBank.Entities.pdb
+C:\Users\ODIRA.DESKTOP-II4QM4T\Desktop\TheAtlanticBank\TheAtlanticBank.Entities\obj\Debug\net7.0\ref\TheAtlanticBank.Entities.dll
+C:\Users\ODIRA.DESKTOP-II4QM4T\Desktop\TheAtlanticBank\TheAtlanticBank.Entities\bin\Debug\net7.0\TheAtlanticBank.Common.dll
+C:\Users\ODIRA.DESKTOP-II4QM4T\Desktop\TheAtlanticBank\TheAtlanticBank.Entities\bin\Debug\net7.0\TheAtlanticBank.Common.pdb
+C:\Users\ODIRA.DESKTOP-II4QM4T\Desktop\TheAtlanticBank\TheAtlanticBank.Entities\obj\Debug\net7.0\TheAtlanticBank.Entities.csproj.CopyComplete

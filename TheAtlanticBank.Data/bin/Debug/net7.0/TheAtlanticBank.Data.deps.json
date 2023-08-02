@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "TheAtlanticBank.Data/1.0.0": {
+        "dependencies": {
+          "TheAtlanticBank.Entities": "1.0.0"
+        },
+        "runtime": {
+          "TheAtlanticBank.Data.dll": {}
+        }
+      },
+      "TheAtlanticBank.Common/1.0.0": {
+        "runtime": {
+          "TheAtlanticBank.Common.dll": {}
+        }
+      },
+      "TheAtlanticBank.Entities/1.0.0": {
+        "dependencies": {
+          "TheAtlanticBank.Common": "1.0.0"
+        },
+        "runtime": {
+          "TheAtlanticBank.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TheAtlanticBank.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TheAtlanticBank.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TheAtlanticBank.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

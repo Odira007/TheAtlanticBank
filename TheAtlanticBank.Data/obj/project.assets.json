@@ -1,0 +1,109 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "TheAtlanticBank.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/TheAtlanticBank.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TheAtlanticBank.Common.dll": {}
+        }
+      },
+      "TheAtlanticBank.Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "TheAtlanticBank.Common": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/TheAtlanticBank.Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TheAtlanticBank.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TheAtlanticBank.Common/1.0.0": {
+      "type": "project",
+      "path": "../TheAtlanticBank.Common/TheAtlanticBank.Common.csproj",
+      "msbuildProject": "../TheAtlanticBank.Common/TheAtlanticBank.Common.csproj"
+    },
+    "TheAtlanticBank.Entities/1.0.0": {
+      "type": "project",
+      "path": "../TheAtlanticBank.Entities/TheAtlanticBank.Entities.csproj",
+      "msbuildProject": "../TheAtlanticBank.Entities/TheAtlanticBank.Entities.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "TheAtlanticBank.Entities >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\ODIRA.DESKTOP-II4QM4T\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\ODIRA.DESKTOP-II4QM4T\\Desktop\\TheAtlanticBank\\TheAtlanticBank.Data\\TheAtlanticBank.Data.csproj",
+      "projectName": "TheAtlanticBank.Data",
+      "projectPath": "C:\\Users\\ODIRA.DESKTOP-II4QM4T\\Desktop\\TheAtlanticBank\\TheAtlanticBank.Data\\TheAtlanticBank.Data.csproj",
+      "packagesPath": "C:\\Users\\ODIRA.DESKTOP-II4QM4T\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ODIRA.DESKTOP-II4QM4T\\Desktop\\TheAtlanticBank\\TheAtlanticBank.Data\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\ODIRA.DESKTOP-II4QM4T\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "C:\\Users\\ODIRA.DESKTOP-II4QM4T\\Desktop\\TheAtlanticBank\\TheAtlanticBank.Entities\\TheAtlanticBank.Entities.csproj": {
+              "projectPath": "C:\\Users\\ODIRA.DESKTOP-II4QM4T\\Desktop\\TheAtlanticBank\\TheAtlanticBank.Entities\\TheAtlanticBank.Entities.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

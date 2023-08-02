@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XWFW/qCwJAeVPFlUm9+k7fTPQE/yQpcsNMuLmUp5RJY3HCd2nd/eItzJfWvTUHLTeFQkPREGffuOQHH4vFUEVA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ODIRA.DESKTOP-II4QM4T\\Desktop\\TheAtlanticBank\\TheAtlanticBank.Helpers\\TheAtlanticBank.Helpers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ODIRA.DESKTOP-II4QM4T\\.nuget\\packages\\figgle\\0.5.1\\figgle.0.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}

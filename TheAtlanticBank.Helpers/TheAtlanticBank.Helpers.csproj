@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\TheAtlanticBank.Entities\TheAtlanticBank.Entities.csproj" />
+    <ProjectReference Include="..\TheAtlanticBank.Data\TheAtlanticBank.Data.csproj" />
+    <ProjectReference Include="..\TheAtlanticBank.Core\TheAtlanticBank.Core.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Figgle" Version="0.5.1" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+  
+  </PropertyGroup>
+
+</Project>
